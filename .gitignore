@@ -1,2 +1,4 @@
-# ignorar ficheiros csv
+# ignorar datasets
 *.csv
+dataset_by_sector/
+.venv
