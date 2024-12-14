@@ -1,8 +1,11 @@
 # ignorar datasets
-*.csv
+data/test
+data/train
 dataset_by_sector/
+
+# ignorar vevn
 .venv
-tt.ipynb
 TODO
 
+tt.ipynb
 models_teste2/
