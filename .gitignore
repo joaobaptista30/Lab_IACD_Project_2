@@ -1,7 +1,13 @@
 # ignorar datasets
 data/test
 data/train
+data/simulation
 dataset_by_sector/
+
+companies_data.csv
+stocks_train_data.csv
+stocks_test_data.csv
+stocks_simulate_data.csv
 
 # ignorar vevn
 .venv
@@ -9,3 +15,6 @@ TODO
 
 tt.ipynb
 models_teste2/
+models3/
+
+apre.txt
